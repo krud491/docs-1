@@ -42,7 +42,7 @@
 		"react-dom": "latest",
 		"viem": "^2.32.1",
 		"vitest": "^2.0.5",
-		"vocs": "1.0.14-main.20250716T102132",
+		"vocs": "1.0.16",
 		"wagmi": "^2.5.5"
 	},
 	"devDependencies": {
